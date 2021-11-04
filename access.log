@@ -1,0 +1,8 @@
+24.114.70.61 - - [03/Nov/2021:20:33:49 +0000] "GET / HTTP/1.1" 200 3477 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+24.114.70.61 - - [03/Nov/2021:20:33:49 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://35.183.205.23/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+24.114.70.61 - - [03/Nov/2021:20:33:49 +0000] "GET /favicon.ico HTTP/1.1" 404 491 "http://35.183.205.23/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+168.90.142.0 - - [03/Nov/2021:20:34:34 +0000] "GET / HTTP/1.1" 200 11173 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+106.75.84.37 - - [03/Nov/2021:20:38:04 +0000] "GET / HTTP/1.0" 200 11192 "-" "-"
+24.114.70.61 - - [03/Nov/2021:20:43:03 +0000] "GET /test.php HTTP/1.1" 404 492 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+128.14.134.170 - - [03/Nov/2021:20:43:17 +0000] "GET / HTTP/1.1" 200 3421 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+24.114.70.61 - - [03/Nov/2021:20:43:17 +0000] "GET /bsides_is_not_real HTTP/1.1" 404 492 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
